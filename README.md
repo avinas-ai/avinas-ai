@@ -4,7 +4,6 @@
 Artificial Intelligence & Data Science Student
 
 Machine Learning • Java • Python • Data Science
-## Hi there 👋
 
 <!--
 **avinas-ai/avinas-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
