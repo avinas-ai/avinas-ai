@@ -1,3 +1,10 @@
+![Banner](banner.png)
+
+# Hi 👋 I'm Avinas Kanagasabapathy S
+
+Artificial Intelligence & Data Science Student
+
+Machine Learning • Java • Python • Data Science
 ## Hi there 👋
 
 <!--
