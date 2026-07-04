@@ -3,8 +3,7 @@
 
 Artificial Intelligence & Data Science Student
 
-Machine Learning • Java • Python • Data Science
-
+AI • Machine Learning • Deep Learning • Full Stack Development • Software DEvelopment
 <!--
 **avinas-ai/avinas-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
