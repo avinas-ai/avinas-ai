@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](github-header-banner (2))
 
 # Hi 👋 I'm Avinas Kanagasabapathy S
 
