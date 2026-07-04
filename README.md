@@ -1,5 +1,4 @@
-![Banner](github-header-banner (2).png)
-
+![Banner](banner.png)
 # Hi 👋 I'm Avinas Kanagasabapathy S
 
 Artificial Intelligence & Data Science Student
